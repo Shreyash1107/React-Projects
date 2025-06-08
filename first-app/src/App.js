@@ -4,7 +4,8 @@ function App(){
     <h3 style={
       {
         backgroundColor:"red",
-        color:"white"
+        color:"white",
+        fontSize:"25px"
       }
     }>
       This is my First React App
