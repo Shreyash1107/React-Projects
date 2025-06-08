@@ -1,11 +1,11 @@
 import React from "react";
-function App(){
-  return(<>
+function App() {
+  return (<>
     <h3 style={
       {
-        backgroundColor:"black",
-        color:"red",
-        fontSize:"25px"
+        backgroundColor: "pink",
+        color: "red",
+        fontSize: "25px"
       }
     }>
       This is my First React App
