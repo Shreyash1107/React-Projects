@@ -3,8 +3,8 @@ function App(){
   return(<>
     <h3 style={
       {
-        backgroundColor:"red",
-        color:"white",
+        backgroundColor:"black",
+        color:"red",
         fontSize:"25px"
       }
     }>
