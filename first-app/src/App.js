@@ -1,4 +1,3 @@
-import React from "react";
 let internal={
   "backgroundColor":"red",
   "fontSize":"30px"
